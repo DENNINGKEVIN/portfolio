@@ -3,9 +3,18 @@
   color: white;
   text-align: center;
   height: 180px;
+  border-radius: 25px;
 }
 
 .round{
   width: 9%; height:auto;
   float:left;
+  border-radius: 50%;
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-bottom: 8px;
+}
+
+.nameposition{
+  padding: 6px;
 }
