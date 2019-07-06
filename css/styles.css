@@ -1,4 +1,11 @@
 .headline{
   background-color: #3E4C62;
   color: white;
+  text-align: center;
+  height: 180px;
+}
+
+.round{
+  width: 9%; height:auto;
+  float:left;
 }
