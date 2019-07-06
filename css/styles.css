@@ -18,3 +18,20 @@
 .nameposition{
   padding: 6px;
 }
+
+.personal{
+  text-align: center;
+  border-radius: 25px;
+  padding-top: 20px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.personal h2{
+  font-size: 35px;
+}
+
+.personal p{
+  font-size: 22px;
+  line-height: 1.5;
+}
