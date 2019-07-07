@@ -78,10 +78,11 @@
 
 .left{
   font-family: 'Montserrat', sans-serif;
-  color: grey;
+  color: white;
   float: left;
   width: 39.5%;
   border-radius: 25px;
+  background-color: #3E4C62;
 }
 
 .left h2{
