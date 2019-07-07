@@ -30,7 +30,6 @@
   color: grey;
   text-align: center;
   border-radius: 25px;
-  padding-top: 20px;
   padding-left: 200px;
   padding-right: 200px;
 }
@@ -40,7 +39,7 @@
 }
 
 .personal p{
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.5;
 }
 
@@ -143,6 +142,15 @@ i{
   color: grey;
   padding: 6px;
   margin-top: 6px;
+  line-height: 1.6;
+}
+
+.upper h2{
+  font-size: 35px;
+}
+
+.upper p{
+  font-size: 20px;
 }
 
 
@@ -154,4 +162,30 @@ i{
   color: white;
   padding: 6px;
   margin-top: 6px;
+  line-height: 1.6;
+}
+
+.lower h2{
+  font-size: 35px;
+}
+
+.lower h3{
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+
+.lower p{
+  font-size: 20px;
+}
+
+.lower div{
+  border: 2px solid;
+  border-color: white;
+  border-radius: 25px;
+  margin-top: 6px;
+}
+
+.span{
+  background-color: white;
 }
