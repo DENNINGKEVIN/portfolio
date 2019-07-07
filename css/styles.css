@@ -77,6 +77,25 @@
   border-radius: 25px;
 }
 
+.left h2{
+  text-align: center;
+  font-size: 25px;
+}
+
+.left p{
+  text-align: center;
+}
+
+#hobbies{
+  padding-left: 150px;
+  line-height: 1.5;
+}
+
+.paddiv{
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
 .buttons{
   background-color:#3E4C62;
   border: none;
