@@ -35,3 +35,10 @@
   font-size: 22px;
   line-height: 1.5;
 }
+
+.right{
+  float:right;
+  width: 60%;
+  background-color: #E6E9EC;
+  border-radius: 25px;
+}
