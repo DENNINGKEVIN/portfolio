@@ -139,4 +139,12 @@ i{
   background-color: #E6E9EC;
   text-align: center;
   border-radius: 25px;
+  color: grey;
+}
+
+.lower{
+  background-color: #3E4C62;
+  text-align: center;
+  border-radius: 25px;
+  color: white;
 }
