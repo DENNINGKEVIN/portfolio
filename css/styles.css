@@ -80,10 +80,16 @@
 .left h2{
   text-align: center;
   font-size: 25px;
+
 }
 
 .left p{
   text-align: center;
+  font-size: 20px;
+}
+
+.left li{
+  font-size: 20px;
 }
 
 #hobbies{
@@ -95,6 +101,11 @@
   padding-left: 80px;
   padding-right: 80px;
 }
+
+i{
+  font-size: 20px;
+}
+
 
 .buttons{
   background-color:#3E4C62;
