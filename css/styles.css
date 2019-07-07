@@ -27,6 +27,7 @@
 
 .personal{
   font-family: 'Montserrat', sans-serif;
+  color: grey;
   text-align: center;
   border-radius: 25px;
   padding-top: 20px;
@@ -45,6 +46,7 @@
 
 .right{
   font-family: 'Montserrat', sans-serif;
+  color: grey;
   float:right;
   width: 60%;
   background-color: #E6E9EC;
@@ -76,6 +78,7 @@
 
 .left{
   font-family: 'Montserrat', sans-serif;
+  color: grey;
   float: left;
   width: 39.5%;
   border-radius: 25px;
@@ -96,7 +99,7 @@
 }
 
 #hobbies{
-  padding-left: 150px;
+  padding-left: 100px;
   line-height: 1.5;
 }
 
