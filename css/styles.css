@@ -65,3 +65,8 @@
   border-radius: 25px;
   margin: 6px;
 }
+
+.left{
+  float: left;
+  width: 39.5%;
+}
