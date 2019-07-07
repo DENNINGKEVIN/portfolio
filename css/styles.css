@@ -133,3 +133,10 @@ i{
   padding-bottom: : 6px;
   overflow: hidden;
   float:left;
+}
+
+.upper{
+  background-color: #E6E9EC;
+  text-align: center;
+  border-radius: 25px;
+}
