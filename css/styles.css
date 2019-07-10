@@ -21,7 +21,9 @@
 }
 
 #skillhead{
-  padding-top: 30px;
+  padding-right: 100px;
+  padding-top: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .personal{
@@ -237,10 +239,20 @@ i{
 }
 
 .btn-outline-primary:hover{
-  background-color: #E6E9EC;
+  background-color:
   color: grey;
 }
 
-.conttainer{
+.container{
   font-family: 'Montserrat', sans-serif;
+}
+
+.btn-outline-primary:active{
+  background-color: grey;
+  color:  #E6E9EC;
+}
+
+#head{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
 }
