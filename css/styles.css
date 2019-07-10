@@ -21,9 +21,9 @@
 }
 
 #skillhead{
+  font-size: 50px;
   padding-right: 100px;
   padding-top: 20px;
-  font-family: 'Montserrat', sans-serif;
 }
 
 .personal{
@@ -200,6 +200,11 @@ i{
 }
 
 .alert{
+  padding-top: 1px;
+  height: 30px;
+  margin-bottom: 50px;
+  margin-left: 330px;
+  margin-right: 330px;
   background-color: #E6E9EC;
   color: grey;
 }
@@ -239,20 +244,10 @@ i{
 }
 
 .btn-outline-primary:hover{
-  background-color:
+  background-color: #E6E9EC;
   color: grey;
 }
 
 .container{
   font-family: 'Montserrat', sans-serif;
-}
-
-.btn-outline-primary:active{
-  background-color: grey;
-  color:  #E6E9EC;
-}
-
-#head{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 50px;
 }
